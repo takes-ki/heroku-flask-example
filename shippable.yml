@@ -15,4 +15,4 @@ build:
     # git url: git@heroku.com:blooming-mountain-58044.git
     # use git url not http.
     # change this value to the value of your app.
-    - git push git@heroku.com:blooming-mountain-58044.git
+    - git push git@heroku.com:frozen-ocean-43493.git
